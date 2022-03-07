@@ -1,4 +1,7 @@
-### Hi there 👋
+I am currently a physics and mathematics student at South Dakota Mines doing my best to make the most of every opportunity, in the hopes that I can use the knowledge and skills I learn to drive the advancement of science, which, in turn will further all of humanity.
+
+- 🔭 I’m currently working on [Tasks](https://github.com/Noah-Everett/Tasks) and [Neural_Network](https://github.com/Noah-Everett/Neural_Network)
+- 📫 How to reach me: NoahEverett898 \at gmail.com
 
 <!--
 **Noah-Everett/Noah-Everett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
